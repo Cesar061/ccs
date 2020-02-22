@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+
+body{
+    text-align: center;
+    color: #fff;
+    background-color: rgba(22, 22, 22, 0.959);
+}
+
+h1 {
+	color:aliceblue;
+	font-size: 5em;
+	font-family: 'Lobster',sefi;
+}
+
+p {
+	Color: red;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 3em
+}
+
+P.p2jeje {
+	Color: blue;
+	font-size: 2em;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+a:link {
+	color:darkcyan;
+	text-decoration: none
+}
+
+a:visited {
+	color: brown;
+}
+
+a:hover {
+	color:cyan;
+	text-decoration: none;
+}
